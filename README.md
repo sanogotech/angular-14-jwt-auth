@@ -19,6 +19,9 @@ You can take a look at following flow to have an overview of Requests and Respon
 
 ![angular-14-jwt-authentication-authorization-flow](angular-14-jwt-authentication-authorization-flow.png)
 
+## Docs
+- https://www.bezkoder.com/angular-14-jwt-auth/
+
 ## Angular JWT App Diagram with Router and HttpInterceptor
 ![angular-14-jwt-authentication](angular-14-jwt-authentication.png)
 
